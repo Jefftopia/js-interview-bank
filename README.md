@@ -1,6 +1,7 @@
 # js-interview-bank
 interview questions
 
+0. What's the difference between display block, inline, inline-block, and flex?
 1. Describe The JavaScript event loop; How does NodeJs handle threading?
 2. What are the differences between var, let, and const?
 3. How can you add an item to the beginning of an array?
