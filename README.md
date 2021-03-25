@@ -17,7 +17,6 @@ interview questions
 13. What types of modules does node support?
 14. There’s no binary data type in JavaScript. How can we handle binary data in node?
 15. In what situations should we use a node stream?
-16. Given that node doesn’t have a notion of binary data, how can node
 17. What is an API?
 18. Suppose you were making a web-service CRUD controller for Users. What might the API paths look like, and which verb would go with each path?
 19. What is CORS?
